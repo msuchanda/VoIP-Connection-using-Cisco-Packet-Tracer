@@ -1,6 +1,6 @@
 # VoIP Connection using Cisco Packet Tracer
 
-This project uses Cisco packet tracer to simulate routes, switches and network connections.
+This project uses Cisco packet tracer to simulate routers, switches and network connections.
 There are 4 locations designed in the project which are connected to each other. 
 After the project completion, it is possible to call any phone in any network from another phone anywhere in the network.
 Project steps are as follows:
